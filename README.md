@@ -1,6 +1,6 @@
 # Salesforce-Community-Camp
 
-# Live URL: http://sforce.co/2sVclu5
+# Live URL: http://bit.ly/sf-forum
 
  Developed using Lightning Community.
 1)	Platform to share reusable codes, configuration
